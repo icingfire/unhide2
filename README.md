@@ -1,5 +1,5 @@
 # unhide2
-simplify the usage of the unhide tool
+Simplify the usage of the unhide tool
 
 Original project:
 https://github.com/YJesus/Unhide
